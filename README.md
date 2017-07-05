@@ -1,1 +1,1 @@
-# Python_InformationRetrieval
+# Information Retrieval
