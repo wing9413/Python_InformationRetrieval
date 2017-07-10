@@ -220,16 +220,5 @@ while True:
 	
 	
 
-###################       eval program start HERE        ###############
-query = getQuery()
-print(query[63])
 
-
-
-
-
-
-
-
-############             eval program END HERE            ##########
 postingFile.close()
