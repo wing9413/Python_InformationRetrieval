@@ -9,5 +9,5 @@ Built a text retrieve system (simple search engine)
 
 Created an inverted index by using dictionary and posting list
 
-![alt text](https://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiJ9uGB8bfVAhUMzIMKHaXoBU0QjRwIBw&url=http%3A%2F%2Fslideplayer.com%2Fslide%2F7827099%2F&psig=AFQjCNFbf2WUH4qxPHYIHeFUo8CYuxYuEA&ust=1501740296813106)
+![alt text](http://slideplayer.com/slide/7827099/25/images/4/What+is+inverted+index+Posting+List.+One+posting.+Opposed+to+forward+index,+store+the+list+of+documents+per+each+word.jpg)
 
