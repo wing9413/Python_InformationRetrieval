@@ -40,7 +40,11 @@ author.txt sotres the author name for each documents </br>
 
 ![alt text](https://github.com/wing9413/Python_InformationRetrieval/blob/master/Pictures/inverted_index.jpg)
 
+### search.py
 
+Get query from the user input, </br>
+the output will be the rank of the relevant documents, </br>
+and shows the document id, similarity score, title and author </br>
 
 
 
