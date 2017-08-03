@@ -21,7 +21,7 @@ Output: shows the document id, similarity score(bigger score, more similar), tit
 
 This assignment included two programs:
 
-1. invert.py generate inverted index </ br>
+1. invert.py generate inverted index </br>
 [Click Here to view my program for generate the inverted index](https://github.com/wing9413/Python_InformationRetrieval/blob/master/MyProject/invert.py)
 
 [Click Here to view my program for building the search engine](https://github.com/wing9413/Python_InformationRetrieval/blob/master/MyProject/seach.py)
