@@ -28,7 +28,9 @@ This assignment included two main programs:
 [Click Here to view my program for building the search engine](https://github.com/wing9413/Python_InformationRetrieval/blob/master/MyProject/search.py)
 
 
-### Inverted Index
+### invert.py
+
+Generate dictionary.txt, posting_list.txt, title.txt and author.txt
 
 ![alt text](https://github.com/wing9413/Python_InformationRetrieval/blob/master/Pictures/inverted_index.jpg)
 
