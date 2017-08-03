@@ -21,7 +21,7 @@ Output: shows the document id, similarity score(bigger score, more similar), tit
 to create a text retrieval system
 
 
-
+[Click Here to view my program](https://github.com/wing9413/CProgramming-SudokuGenerator/blob/master/MyProject/generator.c)
 
 
 
