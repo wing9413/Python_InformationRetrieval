@@ -18,6 +18,8 @@ Output: shows the document id, similarity score(bigger score, more similar), tit
 
 ## Getting Started
 
+to create a text retrieval system
+
 
 
 
