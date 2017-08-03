@@ -30,8 +30,6 @@ This assignment included two main programs:
 
 ### Inverted Index
 
-[Click Here to view my program for building the search engine](https://github.com/wing9413/Python_InformationRetrieval/blob/master/MyProject/search.py)
-
 ![alt text](https://github.com/wing9413/Python_InformationRetrieval/blob/master/Pictures/inverted_index.jpg)
 
 
