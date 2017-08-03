@@ -15,10 +15,11 @@ Output: shows the document id, similarity score(bigger score, more similar), tit
 
 ![alt text](https://github.com/wing9413/Python_InformationRetrieval/blob/master/Pictures/output.jpg)
 
+---------------------------------------------------
 
 ## Getting Started
 
-to create a text retrieval system
+
 
 
 [Click Here to view my program for building the data structure](https://github.com/wing9413/Python_InformationRetrieval/blob/master/MyProject/invert.py)
