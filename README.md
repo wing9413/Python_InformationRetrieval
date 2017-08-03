@@ -1,8 +1,8 @@
 # Information Retrieval
 
-CPS 842 - Information Retrieval and Web Search
+This assignment was done in a part of the Information Retrieval and Web Searc Course (CPS842).
 
-Built a text retrieve system (simple search engine) through python 
+Built a text retrieve system (simple search engine) through python. This search engine implements the Vector Space Model and searches through the CACM document collection(3204 documents in total)
 
 ### What is the goal?
 **When query is entered by a user, the output will be a list of relevant documents with ranks (The most similar documents showed first)**
@@ -19,7 +19,7 @@ Output: shows the document id, similarity score(bigger score, more similar), tit
 
 ## Getting Started
 
-
+This assignment included two
 
 
 [Click Here to view my program for building the data structure](https://github.com/wing9413/Python_InformationRetrieval/blob/master/MyProject/invert.py)
