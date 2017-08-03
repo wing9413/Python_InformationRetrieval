@@ -19,12 +19,13 @@ Output: shows the document id, similarity score(bigger score, more similar), tit
 
 ## Getting Started
 
-This assignment included two programs:
+This assignment included two main programs:
 
-1. invert.py generate inverted index </br>
+1. invert.py (generate inverted index, dictionary and posting list) </br>
 [Click Here to view my program for generate the inverted index](https://github.com/wing9413/Python_InformationRetrieval/blob/master/MyProject/invert.py)
 
-[Click Here to view my program for building the search engine](https://github.com/wing9413/Python_InformationRetrieval/blob/master/MyProject/seach.py)
+2. search.py (run the query from user input and displayed the result) </br>
+[Click Here to view my program for building the search engine](https://github.com/wing9413/Python_InformationRetrieval/blob/master/MyProject/search.py)
 
 
 ### Data Structure
