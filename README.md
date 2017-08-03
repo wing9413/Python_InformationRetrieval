@@ -32,11 +32,11 @@ This assignment included two main programs:
 
 Generate dictionary.txt, posting_list.txt, title.txt and author.txt
 
-Each line in dictionary.txt included a term, its document frequency and link to the posting list
-Each line in posting.txt included link from the dictionary.txt, idf, and all documents the term occurs (id and weight)
-documentNormalize.txt store the document normalization
-in the title.txt stores the title for each documents
-in the author.txt sotres the author name for each documents
+Each line in dictionary.txt included a term, its document frequency and link to the posting list </br>
+Each line in posting.txt included link from the dictionary.txt, idf, and all documents the term occurs (id and weight) </br>
+documentNormalize.txt store the document normalization </br>
+in the title.txt stores the title for each documents </br>
+in the author.txt sotres the author name for each documents </br>
 
 ![alt text](https://github.com/wing9413/Python_InformationRetrieval/blob/master/Pictures/inverted_index.jpg)
 
