@@ -1,5 +1,7 @@
 # Information Retrieval
 
+CPS 842 - Information Retrieval and Web Search
+
 Built a text retrieve system (simple search engine) through python 
 
 ### What is the goal?
@@ -8,11 +10,9 @@ Built a text retrieve system (simple search engine) through python
 
 ## Getting Started
 
+Output:
 
-
-
-
-![alt text](https://github.com/wing9413/Python_InformationRetrieval/blob/master/Pictures/result.png)
+![alt text](https://github.com/wing9413/Python_InformationRetrieval/blob/master/Pictures/output.jpg)
 
 
 ### Data Structure
