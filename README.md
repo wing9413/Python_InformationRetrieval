@@ -1,6 +1,6 @@
 # Information Retrieval
 
-Built a text retrieve system (simple search engine) through python </ br>
+Built a text retrieve system (simple search engine) through python 
 
 **Goal:  When query is entered by a user, the output will be a list of relevant documents with rank(The most similar documents will showed first)**
 
