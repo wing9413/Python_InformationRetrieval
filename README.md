@@ -11,7 +11,7 @@ Input:
 
 ![alt text](https://github.com/wing9413/Python_InformationRetrieval/blob/master/Pictures/input.jpg)
 
-Output:
+Output: shows the document id, similarity score(bigger score, more similar), title and author
 
 ![alt text](https://github.com/wing9413/Python_InformationRetrieval/blob/master/Pictures/output.jpg)
 
