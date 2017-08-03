@@ -30,7 +30,10 @@ This assignment included two main programs:
 
 ### Inverted Index
 
-Created an inverted index by using dictionary and posting list
+[Click Here to view my program for building the search engine](https://github.com/wing9413/Python_InformationRetrieval/blob/master/MyProject/search.py)
+
+![alt text](https://github.com/wing9413/Python_InformationRetrieval/blob/master/Pictures/inverted_index.jpg)
+
 
 
 
