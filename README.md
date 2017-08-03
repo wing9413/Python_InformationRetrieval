@@ -3,7 +3,7 @@
 Built a text retrieve system (simple search engine) through python 
 
 ### What is the goal?
-**When query is entered by a user, the output will be a list of relevant documents with ranks (The most similar documents will showed first)**
+**When query is entered by a user, the output will be a list of relevant documents with ranks (The most similar documents showed first)**
 
 
 ## Getting Started
